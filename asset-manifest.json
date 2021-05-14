@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume-react-app/static/css/main.1cc20562.chunk.css",
+    "main.js": "/resume-react-app/static/js/main.7b0fee0d.chunk.js",
+    "main.js.map": "/resume-react-app/static/js/main.7b0fee0d.chunk.js.map",
+    "runtime-main.js": "/resume-react-app/static/js/runtime-main.5e7e7b38.js",
+    "runtime-main.js.map": "/resume-react-app/static/js/runtime-main.5e7e7b38.js.map",
+    "static/js/2.c5da8bff.chunk.js": "/resume-react-app/static/js/2.c5da8bff.chunk.js",
+    "static/js/2.c5da8bff.chunk.js.map": "/resume-react-app/static/js/2.c5da8bff.chunk.js.map",
+    "static/js/3.f1d48e11.chunk.js": "/resume-react-app/static/js/3.f1d48e11.chunk.js",
+    "static/js/3.f1d48e11.chunk.js.map": "/resume-react-app/static/js/3.f1d48e11.chunk.js.map",
+    "index.html": "/resume-react-app/index.html",
+    "static/css/main.1cc20562.chunk.css.map": "/resume-react-app/static/css/main.1cc20562.chunk.css.map",
+    "static/js/2.c5da8bff.chunk.js.LICENSE.txt": "/resume-react-app/static/js/2.c5da8bff.chunk.js.LICENSE.txt",
+    "static/media/forest_background.c91d5b19.jpg": "/resume-react-app/static/media/forest_background.c91d5b19.jpg",
+    "static/media/simon.09244a18.jpg": "/resume-react-app/static/media/simon.09244a18.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7e7b38.js",
+    "static/js/2.c5da8bff.chunk.js",
+    "static/css/main.1cc20562.chunk.css",
+    "static/js/main.7b0fee0d.chunk.js"
+  ]
+}
