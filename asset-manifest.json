@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.074d876f.chunk.css",
-    "main.js": "/static/js/main.f0449c36.chunk.js",
-    "main.js.map": "/static/js/main.f0449c36.chunk.js.map",
+    "main.js": "/static/js/main.fafa5d3a.chunk.js",
+    "main.js.map": "/static/js/main.fafa5d3a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5fc8854e.js",
     "runtime-main.js.map": "/static/js/runtime-main.5fc8854e.js.map",
     "static/js/2.72f268a9.chunk.js": "/static/js/2.72f268a9.chunk.js",
@@ -12,13 +12,14 @@
     "index.html": "/index.html",
     "static/css/main.074d876f.chunk.css.map": "/static/css/main.074d876f.chunk.css.map",
     "static/js/2.72f268a9.chunk.js.LICENSE.txt": "/static/js/2.72f268a9.chunk.js.LICENSE.txt",
-    "static/media/jungleBackground.f1503356.jpg": "/static/media/jungleBackground.f1503356.jpg",
+    "static/media/jungleBackground.85c1fe1a.jpg": "/static/media/jungleBackground.85c1fe1a.jpg",
+    "static/media/jungleBackgroundMobile.45746bbd.jpg": "/static/media/jungleBackgroundMobile.45746bbd.jpg",
     "static/media/simon.0d6f7d12.jpg": "/static/media/simon.0d6f7d12.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5fc8854e.js",
     "static/js/2.72f268a9.chunk.js",
     "static/css/main.074d876f.chunk.css",
-    "static/js/main.f0449c36.chunk.js"
+    "static/js/main.fafa5d3a.chunk.js"
   ]
 }
