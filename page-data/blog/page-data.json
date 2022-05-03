@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-index-js",
     "path": "/blog/",
-    "result": {"data":{"allMdx":{"nodes":[{"slug":"blog/todd-coxeter/","frontmatter":{"title":"A Graphical Explanation of the Todd-Coxeter Algorithm","date":"2022-04-28","excerpt":"Coming soon...","tags":["math","algorithms"]}}]}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"slug":"blog/todd-coxeter/","frontmatter":{"title":"A Graphical Explanation of the Todd-Coxeter Algorithm","date":"2022-05-03","excerpt":"An explanation covering group presentations, group actions, Schreier graphs, the concepts behind the Todd-Coxeter Algorithm, and an implementation of that algorithm","tags":["math","algorithms"]}}]}},"pageContext":{}},
     "staticQueryHashes": []}
