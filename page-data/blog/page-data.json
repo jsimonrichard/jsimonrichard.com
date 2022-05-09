@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-index-js",
     "path": "/blog/",
-    "result": {"data":{"allMdx":{"nodes":[{"slug":"blog/todd-coxeter/","frontmatter":{"title":"A Graphical Explanation of the Todd-Coxeter Algorithm","date":"2022-05-03","excerpt":"An explanation covering group presentations, group actions, Schreier graphs, the concepts behind the Todd-Coxeter Algorithm, and an implementation of that algorithm","tags":["math","algorithms"]}}]}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"slug":"blog/todd-coxeter/","frontmatter":{"title":"A Graphical Explanation of the Todd-Coxeter Algorithm","date":"2022-05-03","excerpt":"An explanation covering group presentations, group actions, Schreier graphs, the concepts behind the Todd-Coxeter Algorithm, and an implementation of that algorithm","tags":["math","algorithms"]}},{"slug":"blog/ai-transparency-paradox","frontmatter":{"title":"Preserving Freedoms in Light of the AI Transparency Paradox","date":"2022-04-13","excerpt":"The AI Transparency Paradox and it's ethical consequences, especially in regards to the future applications of AI","tags":["ethics","ai"]}}]}},"pageContext":{}},
     "staticQueryHashes": []}

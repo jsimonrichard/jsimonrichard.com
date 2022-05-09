@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-page-template-js",
+    "path": "/tags/ethics",
+    "result": {"data":{"allMdx":{"nodes":[{"slug":"blog/ai-transparency-paradox","frontmatter":{"title":"Preserving Freedoms in Light of the AI Transparency Paradox","date":"2022-04-13","excerpt":"The AI Transparency Paradox and it's ethical consequences, especially in regards to the future applications of AI","tags":["ethics","ai"]}}]}},"pageContext":{"tag":"ethics"}},
+    "staticQueryHashes": []}
